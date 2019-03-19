@@ -7,4 +7,4 @@ Detect Fake News
 <br>(2)Author
 <br>(3)News Text 
 
-The Model is saved as file and predictions can be made from saved model
+The Model is saved as file and predictions can be made from saved model. The accuracy of 98% was achieved on kaggle test set using keras and DNN.
